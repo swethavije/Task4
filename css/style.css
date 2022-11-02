@@ -41,8 +41,16 @@ body{
 	color:gray;
 }
 .networks i{
-	color:blue;
-	font-size:30px;
+	color:white;
+	font-size:18px;
+	width:30px;
+	height:28px;
+	text-align:center;
+	padding-top:5px;
 }
-
+.networks a{
+	display:inline-block;
+	background-color:blue;
+	border-radius:3px;
+}
 

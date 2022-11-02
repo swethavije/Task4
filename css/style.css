@@ -1,0 +1,48 @@
+body{
+     background-color:black;
+	 font-family:Arial,sans-serif;
+	 padding-top:130px;
+	 }
+.container{
+	   display:flex;
+	   width:2000px;
+	   background-color:white;
+	   padding-top:50px;
+	   padding-left:100px;
+	   padding-bottom:50px;
+	  }
+.address p{
+	color:gray;
+}
+.links{
+	padding-left:100px;
+}
+.links a{
+	 text-decoration:none;
+	 color:gray;
+} 
+.links i{
+	color:blue;
+}
+.services{
+	padding-left:100px;
+}
+.services a{
+	text-decoration:none;
+	color:gray;
+}
+.services i{
+	color:blue;
+}
+.networks{
+	padding-left:100px;
+}
+.networks p{
+	color:gray;
+}
+.networks i{
+	color:blue;
+	font-size:30px;
+}
+
+
